@@ -7,9 +7,10 @@ Terraform module to manage AWS IAM services.
 
 This set of modules provide features to allow the management of AWS IAM resources such as:
 
-- Create organisations
-- Manages Organisations accounts and Users
-- Create and attach Roles, policies and permissions.
+- Manages organisations and organisation units
+- Manages Organisations accounts
+- Manages Users to accounts
+- Manages Roles, policies and permissions attachments.
 
 
 ##
