@@ -9,7 +9,7 @@ This set of modules provide features to allow the management of AWS IAM resource
 
 - Manages organisations and organisations units
 - Manages Organisations accounts and Users
-- Manages Roles, policies, permissions and attachments.
+- Manages Roles, policies, permissions and attachments
 
 
 ##
