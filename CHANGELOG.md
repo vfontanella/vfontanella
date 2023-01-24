@@ -1,5 +1,24 @@
 # CHANGELOG
 
+## [v4.0.3](https://github.com/vfontanella/vfontanella/releases/tag/v4.0.3) - 2023-01-24 19:07:24
+
+### [4.0.3](https://github.com/vfontanella/vfontanella/compare/v4.0.2...v4.0.3) (2023-01-24)
+
+
+### Chores
+
+* **documentation:** move codeowners to root folder ([5894289](https://github.com/vfontanella/vfontanella/commit/5894289c441d08057fa05a9ba46cf405aebe8c21))
+
+
+### Documentation
+
+* **CHANGELOG:** update release notes ([892112a](https://github.com/vfontanella/vfontanella/commit/892112a56774c52f0da4235033fcf201981ab3b6))
+
+### Chores
+
+- documentation:
+  - move codeowners to root folder ([5894289](https://github.com/vfontanella/vfontanella/commit/5894289c441d08057fa05a9ba46cf405aebe8c21)) ([#16](https://github.com/vfontanella/vfontanella/pull/16))
+
 ## [v4.0.2](https://github.com/vfontanella/vfontanella/releases/tag/v4.0.2) - 2023-01-24 18:49:44
 
 ### [4.0.2](https://github.com/vfontanella/vfontanella/compare/v4.0.1...v4.0.2) (2023-01-24)
