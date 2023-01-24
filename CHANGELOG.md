@@ -1,5 +1,24 @@
 # CHANGELOG
 
+## [v4.0.2](https://github.com/vfontanella/vfontanella/releases/tag/v4.0.2) - 2023-01-24 18:49:44
+
+### [4.0.2](https://github.com/vfontanella/vfontanella/compare/v4.0.1...v4.0.2) (2023-01-24)
+
+
+### Chores
+
+* **documentation:** remove don't commit to branch check on pre-commit ([fecf248](https://github.com/vfontanella/vfontanella/commit/fecf248ed4a476942a1b53b377970c7cd2e62f0f))
+
+
+### Documentation
+
+* **CHANGELOG:** update release notes ([1712e1a](https://github.com/vfontanella/vfontanella/commit/1712e1adeccc4d35ab4d67f2449f5ae20f499758))
+
+### Chores
+
+- documentation:
+  - remove don't commit to branch check on pre-commit ([fecf248](https://github.com/vfontanella/vfontanella/commit/fecf248ed4a476942a1b53b377970c7cd2e62f0f)) ([#15](https://github.com/vfontanella/vfontanella/pull/15))
+
 ## [v4.0.1](https://github.com/vfontanella/vfontanella/releases/tag/v4.0.1) - 2023-01-24 18:39:34
 
 ### [4.0.1](https://github.com/vfontanella/vfontanella/compare/v4.0.0...v4.0.1) (2023-01-24)
