@@ -1,5 +1,24 @@
 # CHANGELOG
 
+## [v4.0.0](https://github.com/vfontanella/vfontanella/releases/tag/v4.0.0) - 2023-01-24 18:31:21
+
+## [4.0.0](https://github.com/vfontanella/vfontanella/compare/v3.0.10...v4.0.0) (2023-01-24)
+
+
+### Release"
+
+* **chore:** publishing AWS IAM terraform module ([f24e18b](https://github.com/vfontanella/vfontanella/commit/f24e18b700f04157069da81b4c16574bd24a2fe6))
+
+
+### Documentation
+
+* **CHANGELOG:** update release notes ([0d50a27](https://github.com/vfontanella/vfontanella/commit/0d50a27b46e1427b4d56228966a1f07783393be4))
+
+### Release
+
+- chore:
+  - publishing AWS IAM terraform module ([f24e18b](https://github.com/vfontanella/vfontanella/commit/f24e18b700f04157069da81b4c16574bd24a2fe6)) ([#13](https://github.com/vfontanella/vfontanella/pull/13))
+
 ## [v3.0.10](https://github.com/vfontanella/vfontanella/releases/tag/v3.0.10) - 2023-01-24 18:23:48
 
 ### [3.0.10](https://github.com/vfontanella/vfontanella/compare/v3.0.9...v3.0.10) (2023-01-24)
