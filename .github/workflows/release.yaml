@@ -2,6 +2,9 @@ name: Module release process action
 on:
   pull_request:
     types: [closed]
+  permissions:
+    contents: write
+    pull-requests: write
 jobs:
   release:
     if: github.event.pull_request.merged == true
@@ -25,7 +28,3 @@ jobs:
           tag: ${{ steps.tag_version.outputs.new_tag }}
           name: Release ${{ steps.tag_version.outputs.new_tag }}
           body: ${{ steps.tag_version.outputs.changelog }}
-permissions:
-  contents: read
-  issues: write
-  pull-requests: write
