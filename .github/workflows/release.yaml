@@ -21,7 +21,7 @@ jobs:
             "fix:patch:Bug Fixes,style:patch:Code Style,chore:patch:Chores,feat:minor:Features,release:major:Release"
       - name: Update CHANGELOG
         id: changelog
-        uses: requarks/changelog-action@v1.5.0
+        uses: requarks/changelog-action@v1.6.0
         with:
           token: ${{ secrets.GH_TOKEN }}
           tag: ${{ steps.tag_version.outputs.new_tag }}
