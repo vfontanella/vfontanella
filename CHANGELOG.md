@@ -1,23 +1,25 @@
 # CHANGELOG
 
-## [v4.0.0](https://github.com/vfontanella/vfontanella/releases/tag/v4.0.0) - 2023-01-24 18:31:21
+## [v4.0.1](https://github.com/vfontanella/vfontanella/releases/tag/v4.0.1) - 2023-01-24 18:39:34
 
-## [4.0.0](https://github.com/vfontanella/vfontanella/compare/v3.0.10...v4.0.0) (2023-01-24)
+### [4.0.1](https://github.com/vfontanella/vfontanella/compare/v4.0.0...v4.0.1) (2023-01-24)
 
 
-### Release"
+### Chores
 
-* **chore:** publishing AWS IAM terraform module ([f24e18b](https://github.com/vfontanella/vfontanella/commit/f24e18b700f04157069da81b4c16574bd24a2fe6))
+* **documentation:** run precommit to fix end of files ([20bc3fb](https://github.com/vfontanella/vfontanella/commit/20bc3fbec178edbcd7336b040c03cb5a6d6c5033))
 
 
 ### Documentation
 
-* **CHANGELOG:** update release notes ([0d50a27](https://github.com/vfontanella/vfontanella/commit/0d50a27b46e1427b4d56228966a1f07783393be4))
+* **CHANGELOG:** update release notes ([69ee83a](https://github.com/vfontanella/vfontanella/commit/69ee83afacb5e96bae108277f0c34f16c1a472bb))
 
-### Release
+### Chores
 
-- chore:
-  - publishing AWS IAM terraform module ([f24e18b](https://github.com/vfontanella/vfontanella/commit/f24e18b700f04157069da81b4c16574bd24a2fe6)) ([#13](https://github.com/vfontanella/vfontanella/pull/13))
+- documentation:
+  - run precommit to fix end of files ([20bc3fb](https://github.com/vfontanella/vfontanella/commit/20bc3fbec178edbcd7336b040c03cb5a6d6c5033)) ([#14](https://github.com/vfontanella/vfontanella/pull/14))
+
+## [v4.0.0](https://github.com/vfontanella/vfontanella/releases/tag/v4.0.0) - 2023-01-24 18:31:21
 
 ## [v3.0.10](https://github.com/vfontanella/vfontanella/releases/tag/v3.0.10) - 2023-01-24 18:23:48
 
