@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate devops (quite old I know...) who 
 ---
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: [https://linkedin.com/in/vfontanella](https://linkedin.com/in/vfontanella)
+- 💼 LinkedIn: [https://linkedin.com/in/vicentefontanella](https://linkedin.com/in/vicentefontanella)
 - 🌍 Portfolio (optional): [https://vfontanella.it](https://vfontanella.it)
 - 📫 Email: vfontanella@gmail.com
 
